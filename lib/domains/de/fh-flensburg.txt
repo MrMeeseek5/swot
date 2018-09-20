@@ -1,4 +1,4 @@
 Hochschule Flensburg
+Flensburg University of Applied Sciences
 
-The old domain of Fachhochschule Flensburg, renamed to Hochschule Flensburg.
-The domain ist still in use for student email accounts.
+The eMail is formatted as follows: name@stud.hs-flensburg.de 
